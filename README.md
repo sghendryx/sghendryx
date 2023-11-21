@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/VIuVH9oA5zJ3HWe4T1/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/VIuVH9oA5zJ3HWe4T1/giphy.gif" width="200"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/sghendryx/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -8,8 +8,6 @@
 </div>
 
 ---
-
-hello! :wave:
 
 ### :woman_technologist: About Me :
 
