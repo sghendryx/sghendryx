@@ -9,7 +9,7 @@
 
 ---
 
-### :woman_technologist: Bio :
+### ⭐ Bio :
 
 ```python
 class DevOps Engineer:
@@ -42,7 +42,7 @@ class Bio(DevOpsEngineer):
 </div>
 
 <div align="center">
-  <h3>:bar_chart: Top Languages</h3>
+  <h3>🐍: Top Languages</h3>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sghendryx&layout=compact&langs_count=8&theme=cobalt" alt="Top Languages">
   </a>
