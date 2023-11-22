@@ -44,4 +44,9 @@ class Bio(DevOpsEngineer):
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sghendryx&theme=nightowl&show_icons=true)
+![Total Commits](https://github-readme-stats.vercel.app/api?username=sghendryx&show_icons=true&hide_title=true&hide=prs,issues,contribs&theme=radical)
+
+
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sghendryx&layout=compact&langs_count=8&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
