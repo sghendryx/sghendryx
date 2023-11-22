@@ -30,7 +30,7 @@ class Bio(DevOpsEngineer):
         )
 ```
 ---
-<div align="center">
+<div align="left">
   <h3>Languages and Tools</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux Icon" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub Icon" width="40" height="40"/>
