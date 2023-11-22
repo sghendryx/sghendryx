@@ -9,7 +9,7 @@
 
 ---
 
-# :woman_technologist: Bio :
+### :woman_technologist: Bio :
 
 ```python
 class DevOps Engineer:
@@ -44,7 +44,4 @@ class Bio(DevOpsEngineer):
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sghendryx&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sghendryx&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sghendryx&theme=nightowl&show_icons=true)
