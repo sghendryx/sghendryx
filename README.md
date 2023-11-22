@@ -12,7 +12,7 @@
 ### :blossom: Bio:
 
 ```python
-class DevOps Engineer:
+class DevOpsEngineer:
     def __init__(self, name, title, company, location, website):
         self.name = name
         self.title = title
