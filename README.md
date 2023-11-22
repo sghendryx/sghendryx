@@ -41,6 +41,8 @@ class Bio(DevOpsEngineer):
   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform Icon" width="40" height="40"/>
 </div>
 
+---
+
 <div align="center">
   <h3>🐍: Top Languages</h3>
   <a href="https://github.com/anuraghazra/github-readme-stats">
