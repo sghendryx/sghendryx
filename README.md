@@ -9,16 +9,26 @@
 
 ---
 
-### :woman_technologist: About Me :
+# :woman_technologist: Bio :
 
-- :telescope: **Currently:** DevOps Engineer
+```python
+class DevOps Engineer:
+    def __init__(self, name, title, company, location, website):
+        self.name = name
+        self.title = title
+        self.company = company
+        self.location = location
 
-- :seedling: **Exploring:** AWS Infrastructure practices with Terraform, Serverless architectures
 
-- :zap: **Interests:** Drawing, Game Development
-
-- 🚀 **Goals:** Contributing to Open Source projects
-
+class Bio(DevOpsEngineer):
+    def __init__(self):
+        super().__init__(
+            name='Solveig Hendryx',
+            title='DevOps Engineer',
+            company='Charter Communications | Contract',
+            location='Denver, Colorado',
+        )
+```
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
