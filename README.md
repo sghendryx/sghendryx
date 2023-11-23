@@ -30,7 +30,7 @@ class Bio(DevOpsEngineer):
         )
 
     def current_status(self):
-        return "🔭 **Currently:** DevOps Engineer"
+        return "- 🔭 **Currently:** DevOps Engineer"
 
     def exploring(self):
         return "- 🌱 **Exploring:** AWS Infrastructure practices with Terraform, Serverless architectures"
