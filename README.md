@@ -18,7 +18,6 @@ class DevOpsEngineer:
         self.title = title
         self.company = company
         self.location = location
-        self.website = website
 
 
 class Bio(DevOpsEngineer):
@@ -27,8 +26,7 @@ class Bio(DevOpsEngineer):
             name='Solveig Hendryx',
             title='DevOps Engineer',
             company='Charter Communications | Contract',
-            location='Denver, Colorado',
-            website='your-website-url'
+            location='Denver, Colorado'
         )
 
     def current_status(self):
