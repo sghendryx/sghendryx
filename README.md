@@ -18,6 +18,7 @@ class DevOpsEngineer:
         self.title = title
         self.company = company
         self.location = location
+        self.website = website
 
 
 class Bio(DevOpsEngineer):
@@ -27,7 +28,20 @@ class Bio(DevOpsEngineer):
             title='DevOps Engineer',
             company='Charter Communications | Contract',
             location='Denver, Colorado',
+            website='your-website-url'
         )
+
+    def current_status(self):
+        return "🔭 **Currently:** DevOps Engineer"
+
+    def exploring(self):
+        return "- 🌱 **Exploring:** AWS Infrastructure practices with Terraform, Serverless architectures"
+
+    def interests(self):
+        return "- ⚡ **Interests:** Drawing, Game Development"
+
+    def goals(self):
+        return "- 🚀 **Goals:** Contributing to Open Source projects"
 ```
 ---
 <div align="left">
