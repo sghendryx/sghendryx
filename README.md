@@ -25,7 +25,7 @@ class Bio(DevOpsEngineer):
         super().__init__(
             name='Solveig Hendryx',
             title='DevOps Engineer',
-            company='Charter Communications | Contract',
+            company='Crazy Ant Labs | Contract',
             location='Denver, Colorado'
         )
 
