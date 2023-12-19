@@ -24,13 +24,13 @@ class Bio(DevOpsEngineer):
     def __init__(self):
         super().__init__(
             name='Solveig Hendryx',
-            title='DevOps Engineer',
+            title='Technical Support Engineer',
             company='Crazy Ant Labs | Contract',
             location='Denver, Colorado'
         )
 
     def current_status(self):
-        return "- 🔭 **Currently:** DevOps Engineer"
+        return "- 🔭 **Currently:** Technical Support Engineer"
 
     def exploring(self):
         return "- 🌱 **Exploring:** AWS Infrastructure practices with Terraform, Serverless architectures"
